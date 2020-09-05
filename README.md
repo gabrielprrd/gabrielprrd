@@ -16,7 +16,7 @@ My name is Gabriel Afonso and I'm a brazilian full stack developer living in Por
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprrd&layout=compact" />
 </a>
 
-### Reach me out on [![LinkedIn][2]][1] if you wanna talk about anything or just build connections.
+### Reach me out on [![LinkedIn][2]][1]!
 
 [2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [1]: https://www.linkedin.com/in/gabriel-afonso-b1a473104/
