@@ -1,7 +1,12 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/github-header.png "Header")](https://gabrielprrd.github.io/)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <!--
 **gabrielprrd/gabrielprrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielprrd)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
