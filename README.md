@@ -5,7 +5,10 @@
 
 My name is Gabriel Afonso and I'm a brazilian full stack developer living in Porto, Portugal. I believe we, software developers, have a super power to build meaningful things.
 
-## Here is my <a href="https://gabrielprrd.github.io/">website</a>
+## Here is my <a href="https://gabrielprrd.github.io/">website</a> and you can reach me out on [![LinkedIn][2]][1]
+
+[2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[1]: https://www.linkedin.com/in/gabriel-afonso-b1a473104/
 
 ## And some of my stats:
 
@@ -16,7 +19,4 @@ My name is Gabriel Afonso and I'm a brazilian full stack developer living in Por
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprrd&layout=compact" />
 </a>
 
-### Reach me out on [![LinkedIn][2]][1]!
-
-[2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[1]: https://www.linkedin.com/in/gabriel-afonso-b1a473104/
+Thank you for checking my profile :)
