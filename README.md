@@ -3,7 +3,7 @@
 
 # Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Gabriel Afonso and I'm a brazilian full stack developer living in Porto, Portugal. I believe we, software developers, have a super power to build meaningful things.
+My name is Gabriel Afonso and I'm a brazilian full stack developer living in Ilha Terceira, Portugal. I believe we, software developers, have a super power to build meaningful things.
 
 Here is my <a href="https://gabrielprrd.github.io/">website</a> and you can reach me out on [![LinkedIn][2]][1]
 
