@@ -5,9 +5,7 @@
 
 My name is Gabriel Afonso and I'm a brazilian full stack developer living in Ilha Terceira, Portugal. I believe we, software developers, have a super power to build meaningful things.
 
-Here is my <a href="https://gabrielprrd.github.io/">website</a> and you can reach me out on [![LinkedIn]Linkedin[1]
-
-[1]: https://www.linkedin.com/in/gabriel-afonso-b1a473104/
+Here is my <a href="https://gabrielprrd.github.io/">website</a> and you can reach me out on <a href=https://www.linkedin.com/in/gabriel-afonso-b1a473104>Linkedin</a>
 
 ## Some of my stats:
 
