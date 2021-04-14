@@ -1,9 +1,9 @@
 [![Header](https://github.com/gabrielprrd/gabrielprrd/blob/master/github-header.png)](https://gabrielprrd.github.io/)
 
 
-# Hello, world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, fellow human! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Gabriel Afonso and I'm a brazilian full stack developer living in Ilha Terceira, Portugal. I believe we, software developers, have a super power to build meaningful things.
+My name is Gabriel Afonso and I'm a full-stack developer living in Ilha Terceira, Portugal. I believe we, software developers, have a superpower to build meaningful things.
 
 Here is my <a href="https://gabrielprrd.github.io/">website</a> and you can reach me out on <a href=https://www.linkedin.com/in/gabrielprrd>Linkedin</a>
 
