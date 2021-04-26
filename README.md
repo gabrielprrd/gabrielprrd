@@ -5,7 +5,7 @@
 <h2 align="center">A passionate full-stack developer based in Portugal.<h2>
 <h3 align="center">I believe we, software developers, have a superpower to build meaningful things.</h3>
 
-<p align="center">My portfolio is available at [https://gabrielprrd.github.io] and you can reach me out on <a href=https://www.linkedin.com/in/gabrielprrd>Linkedin</a></o>
+<p align="center">My portfolio is available <a href="https://gabrielprrd.github.io">here</a> and you can reach me out on <a href=https://www.linkedin.com/in/gabrielprrd>Linkedin</a></o>
 
 
 <h3 align="center">Languages and Tools:</h3>
