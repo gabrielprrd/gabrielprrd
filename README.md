@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Gabriel Afonso</h1>
-<h2 align="left">A passionate full-stack developer based in Portugal.<h2>
+<h2 align="left">A passionate full-stack developer based in Portugal.</h2>
 <h3 align="left">I believe we, software developers, have a superpower to build meaningful things.</h3>
 
 <p align="left">My portfolio is available <a href="https://gabrielprrd.github.io">here</a> and you can reach me out on <a href=https://www.linkedin.com/in/gabrielprrd>Linkedin</a></o>
