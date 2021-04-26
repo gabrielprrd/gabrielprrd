@@ -9,4 +9,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielprrd&show_icons=true&locale=en&layout=compact" alt="gabrielprrd" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielprrd&show_icons=true&locale=en" alt="gabrielprrd" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielprrd&show_icons=true&locale=en" alt="gabrielprrd" /></p>
