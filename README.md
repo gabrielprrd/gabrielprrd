@@ -5,7 +5,7 @@
 <h2 align="center">A passionate full-stack developer based in Portugal.<h2>
 <h3 align="center">I believe we, software developers, have a superpower to build meaningful things.</h3>
 
-My portfolio is available at [https://gabrielprrd.github.io](https://gabrielprrd.github.io) and you can reach me out on <a href=https://www.linkedin.com/in/gabrielprrd>Linkedin</a>
+<p> align="center">My portfolio is available at [https://gabrielprrd.github.io](https://gabrielprrd.github.io) and you can reach me out on <a href=https://www.linkedin.com/in/gabrielprrd>Linkedin</a></o>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,5 +14,3 @@ My portfolio is available at [https://gabrielprrd.github.io](https://gabrielprrd
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielprrd&show_icons=true&locale=en&layout=compact" alt="gabrielprrd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielprrd&show_icons=true&locale=en" alt="gabrielprrd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielprrd&" alt="gabrielprrd" /></p>
