@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1 align="center">  Hi there, welcome to my profile! 👋</h1>
-  <h2 align="center">  My name is Filipe Mota 🔥</h2> 
+  <h2 align="center">  My name is Aabriel Afonso</h2> 
 </p>
 
 - 🌱 Looking at Next.js and Typescript;
