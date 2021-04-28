@@ -2,13 +2,15 @@
 
 <p align="center">
   <h1 align="center">  Hi there, welcome to my profile! 👋</h1>
-  <h2 align="center">  My name is Aabriel Afonso</h2> 
+  <h2 align="center">  My name is Gabriel Afonso</h2> 
 </p>
+
+I'm a completely passionate full-stack developer based in Portugal.
 
 - 🌱 Looking at Next.js and Typescript;
 - ⚡ Doing projects in React.js and Node.js;
 - 📫 You can reach me on Linkedin [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielprrd/)](https://www.linkedin.com/in/gabrielprrd/)
-- ⚡ Fun fact about me, I;
+- ⚡ Fun fact about me, people say I'm very kind but my earphones usually are playing the heaviest deathcore you can imagine;
 - 😄 You can download my portfolio [here](https://gabrielprrd.github.io/ "here").
 
 ## Technologies I know and keep learning
