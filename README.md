@@ -7,7 +7,7 @@
 
 I'm a completely passionate full-stack developer based in Portugal.
 
-- 🌱 Looking at Next.js and Typescript;
+- 🌱 Looking at Vue.js, Nuxt and Typescript;
 - ⚡ Doing projects in React.js and Node.js;
 - 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielprrd/)](https://www.linkedin.com/in/gabrielprrd/)
 - ⚡ Fun fact about me, people say I'm very kind but my earphones usually are playing the heaviest deathcore you can imagine;
