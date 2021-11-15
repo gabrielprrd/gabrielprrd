@@ -16,9 +16,4 @@ I'm a completely passionate full-stack developer based in Portugal.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielprrd" alt="gabrielprrd" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabrielprrd&show_icons=true" alt="gabrielprrd" /></p>
 
-## Let's connect:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielprrd)](https://github.com/gabrielprrd)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielprrd/)](https://www.linkedin.com/in/gabrielprrd/)
-
-
 ⭐️ Thank you for checking my profile
