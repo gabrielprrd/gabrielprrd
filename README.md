@@ -5,7 +5,7 @@
   <h2 align="center">  My name is Gabriel Afonso</h2> 
 </p>
 
-I'm a completely passionate fullstack developer based in Portugal.
+I'm a completely passionate fullstack developer based in Germany.
 
 - ⚡ Working as a Fullstack Developer;
 - 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielprrd/)](https://www.linkedin.com/in/gabrielprrd/)
