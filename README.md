@@ -7,9 +7,9 @@
 
 I'm a completely passionate fullstack developer based in Germany.
 
-- ⚡ Working as a Fullstack Developer;
+- ⚡ Working as a Fullstack Developer
 - 📫 You can reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielprrd/)](https://www.linkedin.com/in/gabrielprrd/)
-- 😄 You can check my portfolio website [here](https://gabrielprrd.github.io/ "here").
+- 😄 You can check my portfolio website [here](https://gabrielprrd.github.io/ "here")
 
 ## Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielprrd" alt="gabrielprrd" /></p>
