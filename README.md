@@ -13,6 +13,6 @@ I'm a completely passionate fullstack developer based in Germany.
 
 ## Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielprrd" alt="gabrielprrd" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabrielprrd&show_icons=true" alt="gabrielprrd" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabrielprrd&show_icons=true" alt="gabrielprrd" /></p> -->
 
 ⭐️ Thank you for checking my profile
